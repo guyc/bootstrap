@@ -1,0 +1,4 @@
+Edit les/variables.less
+change @baseFontSize from 14px to 13px
+change @baseLineHeight from 20px to 18px
+on euramoo run gmake
